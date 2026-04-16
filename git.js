@@ -4,4 +4,6 @@ const array = [
   { name: "hams" },
   { name: "other" },
   { name: "ali" },
+  { name: "sameer" },
+  
 ];
