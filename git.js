@@ -1,7 +1,8 @@
 const array=[
   {name:"hassan"},
   {name:"ashan"},
-  {name:"hams"}
+  {name:"hams"},
+  {name:"other"}
 ]
 
 
