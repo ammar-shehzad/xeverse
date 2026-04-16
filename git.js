@@ -1,5 +1,6 @@
 const array=[
-  {name:"hassan"}
+  {name:"hassan"},
+  {name:"ali"}
 ]
 
 
